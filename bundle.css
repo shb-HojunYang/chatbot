@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300&display=swap);
-#CounterContainer{justify-content:center;align-items:center;display:flex;color:#000;height:100%;width:100%}#Counter{justify-content:center;flex-direction:column;align-items:center;display:flex;height:50%;width:100%}#Counter h1{font-size:200px}#Counter div{display:flex;justify-content:center;width:100%}#Counter div button{border-radius:10px;font-size:30px;margin:5px;padding:10px;background-color:#00008b;color:#fff;border:none}
+#CounterContainer{justify-content:center;align-items:center;display:flex;color:#000;height:100%;width:100%}#Counter{justify-content:center;flex-direction:column;align-items:center;display:flex;height:50%;width:100%}#Counter h1{font-size:200px;margin:0px}#Counter div{display:flex;justify-content:center;width:100%}#Counter div button{border-radius:10px;font-size:160%;margin:5px;margin-top:20%;padding:5%;background-color:#00008b;color:#fff;border:none}
 #ChatBotContainerTitle{margin:0px 0px 15px 0px;padding:0px;color:#fff;font-size:40px}#ChatBotContainer{background-color:#fff;margin-top:10px;border-radius:3%;height:87%;width:90%;display:flex}
 body{margin:0px;padding:0px;background:#0e2166;font-family:Noto Sans KR,sans-serif}main{justify-content:center;flex-direction:column;align-items:center;display:flex;width:100%;height:100%}
 
